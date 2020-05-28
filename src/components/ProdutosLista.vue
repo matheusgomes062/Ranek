@@ -1,5 +1,5 @@
 <template>
-  <input type="text" name id />
+  <h1>ProdutosLista</h1>
 </template>
 
 <script>
